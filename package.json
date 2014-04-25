@@ -1,0 +1,6 @@
+{
+  "name": "json-tree-ts",
+  "dependencies": {
+    "typescript": "^1.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "json-tree-ts",
+  "version": "0.0.1",
+  "homepage": "https://github.com/urodoz/json-tree",
+  "authors": [
+    "Albert Lacarta <urodoz@gmail.com>"
+  ],
+  "description": "json-tree Project Typescripted",
+  "main": "jsontree.js",
+  "keywords": [
+    "json",
+    "jsontree",
+    "tree",
+    "typescript",
+    "ts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
